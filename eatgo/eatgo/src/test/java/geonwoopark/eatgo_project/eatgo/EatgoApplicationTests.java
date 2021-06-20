@@ -1,13 +1,13 @@
-package eatgo.eatgo;
+package geonwoopark.eatgo_project.eatgo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ParkgeonwooApplicationTests {
+class EatgoApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
