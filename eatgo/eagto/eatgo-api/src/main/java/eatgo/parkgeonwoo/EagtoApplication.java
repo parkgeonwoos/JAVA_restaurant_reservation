@@ -1,13 +1,13 @@
-package geonwoopark.eatgo_project.eatgo;
+package eatgo.parkgeonwoo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EatgoApplication {
+public class EagtoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EatgoApplication.class, args);
+        SpringApplication.run(EagtoApplication.class, args);
     }
 
 }
